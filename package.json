@@ -1,0 +1,29 @@
+{
+  "name": "tgoauth",
+  "version": "1.0.0",
+  "description": "a microservice for Telegram OAuth",
+  "main": "index.js",
+  "homepage": "https://github.com/arebaka/tgoauth#readme",
+  "scripts": {
+    "test": ":"
+  },
+  "bugs": {
+    "url": "https://github.com/arebaka/tgoauth/issues"
+  },
+  "author": "arelive <me@are.moe> (https://are.moe)",
+  "license": "MIT",
+  "repository": "github:arebaka/tgoauth",
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/arelive"
+  },
+  "keywords": [
+    "telegram",
+    "oauth"
+  ],
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ]
+}
